@@ -1,5 +1,5 @@
 ## Welcome to EasyHooks
-Webhooks made easy with a beautiful UI and integration with any tool you like such as IFTTT or Zapier.
+Webhooks made easy with a beautiful UI and integration with any tool you like such as IFTTT or Zapier. Webhooks is a award winning idea of Tristan (@ladataviz) and Merlijn (@merlijnbuit) and has been developed during the Hackathon at Tableau Conference 2019 (#data19)
 
 ## Todo
 - Create Proxy to handle REST API requests to Tableau Server
