@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/easyhooks/static/css/main.8ffd3f52.chunk.css",
+    "main.js": "/easyhooks/static/js/main.6f34dc1e.chunk.js",
+    "main.js.map": "/easyhooks/static/js/main.6f34dc1e.chunk.js.map",
+    "runtime-main.js": "/easyhooks/static/js/runtime-main.9000f31e.js",
+    "runtime-main.js.map": "/easyhooks/static/js/runtime-main.9000f31e.js.map",
+    "static/js/2.e8a0365d.chunk.js": "/easyhooks/static/js/2.e8a0365d.chunk.js",
+    "static/js/2.e8a0365d.chunk.js.map": "/easyhooks/static/js/2.e8a0365d.chunk.js.map",
+    "index.html": "/easyhooks/index.html",
+    "precache-manifest.16c5846fd8f6f8bbd362c65aff0fd744.js": "/easyhooks/precache-manifest.16c5846fd8f6f8bbd362c65aff0fd744.js",
+    "service-worker.js": "/easyhooks/service-worker.js",
+    "static/css/main.8ffd3f52.chunk.css.map": "/easyhooks/static/css/main.8ffd3f52.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9000f31e.js",
+    "static/js/2.e8a0365d.chunk.js",
+    "static/css/main.8ffd3f52.chunk.css",
+    "static/js/main.6f34dc1e.chunk.js"
+  ]
+}
